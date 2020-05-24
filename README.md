@@ -5,6 +5,8 @@
 1. **Python 3:** [Introdução a Orientação a objetos](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos)
 
     Projeto: **Simulador de conta corrente**
+    
+    Arquivos: **clientes.py**; **conta.py**
    - Aprenda o paradigma OO com Python 3
    - Aplique Orientação a objetos com atributos, métodos e classes
    - Veja como usar propriedades
