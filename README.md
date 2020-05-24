@@ -14,6 +14,8 @@
 2. **Python 3:** [Avançando na orientação a objetos](https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos)
 
     Projeto: **Playlist de programas**
+    
+    Arquivos: **playlist.py**
    - Entenda o que é Duck Typing e para que serve
    - Crie classes abstratas e use herança múltipla
    - Aprenda sobre o modelo de dados do Python
