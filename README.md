@@ -18,7 +18,25 @@
    - Crie classes abstratas e use herança múltipla
    - Aprenda sobre o modelo de dados do Python
    - Conheça os Mixin e Extensão de classes
-   - Saiba a diferença entre __str__ e __repr__
+   - Saiba a diferença entre _ _ str _ _ e _ _ repr _ _
+
+2. **Python 3:** [Manipulação de Strings](https://cursos.alura.com.br/course/python-manipulando-strings)
+
+    Projeto: **Manipulando URL de um site**
+    
+    Arquivos: **main.py**; **ExtratorArgumentosUrl.py**
+   - Aprenda a manipular Strings com Python 3
+   - Use métodos importantes das strings
+   - Crie uma classe que retira informações de uma URL
+   - Aprenda o que são expressões regulares
+   - Trabalhe com a biblioteca re do Python 3
+   - Utilize os métodos especiais do Python
+   
+   
+
+
+
+
 
 
 
